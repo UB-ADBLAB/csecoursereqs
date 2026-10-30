@@ -1,0 +1,2172 @@
+[
+  {
+    "eff": "2006-08-28",
+    "req": "",
+    "sub": "CSE",
+    "title": "Co-Op Fall",
+    "catalognumber": "445TUT"
+  },
+  {
+    "eff": "2001-08-15",
+    "req": "",
+    "sub": "CSE",
+    "title": "Co-Op Spring",
+    "catalognumber": "446LAB"
+  },
+  {
+    "eff": "2006-08-28",
+    "req": "",
+    "sub": "CSE",
+    "title": "Co-Op Spring",
+    "catalognumber": "446TUT"
+  },
+  {
+    "eff": "2023-10-01",
+    "req": "Pre-Requisite: CSE 305",
+    "sub": "CSE",
+    "title": "Program Development",
+    "catalognumber": "451LR"
+  },
+  {
+    "eff": "2012-10-01",
+    "req": "",
+    "sub": "CSE",
+    "title": "Computers: A General Introduction",
+    "catalognumber": "101LLB"
+  },
+  {
+    "eff": "2020-03-01",
+    "req": "",
+    "sub": "CSE",
+    "title": "Introduction to Quantitative Analysis and Reasoning with Computing",
+    "catalognumber": "111LLB"
+  },
+  {
+    "eff": "2004-08-15",
+    "req": "",
+    "sub": "CSE",
+    "title": "Great Ideas in CS 2",
+    "catalognumber": "112LEC"
+  },
+  {
+    "eff": "2021-10-01",
+    "req": "",
+    "sub": "CSE",
+    "title": "Introduction to Computer Programming I",
+    "catalognumber": "113LR"
+  },
+  {
+    "eff": "2022-03-01",
+    "req": "",
+    "sub": "CSE",
+    "title": "Introduction to Computer Programming II",
+    "catalognumber": "114LR"
+  },
+  {
+    "eff": "2025-03-01",
+    "req": "",
+    "sub": "CSE",
+    "title": "Introduction to Computer Science I",
+    "catalognumber": "115LLR"
+  },
+  {
+    "eff": "2020-03-01",
+    "req": "Pre-Requisite: CSE 115 or EAS 230 or EAS 240 or EAS 999TRCP.",
+    "sub": "CSE",
+    "title": "Introduction to Computer Science II",
+    "catalognumber": "116LLB"
+  },
+  {
+    "eff": "2018-03-01",
+    "req": "",
+    "sub": "CSE",
+    "title": "Computers & Society",
+    "catalognumber": "182LEC"
+  },
+  {
+    "eff": "2025-03-01",
+    "req": "Pre-Requisite: CSE 115 or EAS 230 or EAS 240 or EAS 999TRCP, and Pre-calculus (MTH 115 or ULC 148 or MTH 113 or MTH 114) or appropriate math placement test scores or Co-Requisite of Calculus 1 (MTH 121 or MTH 131 or MTH 141, or MTH 136 or MTH 108).",
+    "sub": "CSE",
+    "title": "Introduction to Discrete Structures",
+    "catalognumber": "191LR"
+  },
+  {
+    "eff": "2021-03-01",
+    "req": "",
+    "sub": "CSE",
+    "title": "Intro to Discrete Math",
+    "catalognumber": "192LEC"
+  },
+  {
+    "eff": "2015-03-01",
+    "req": "Pre-Requisite: Four years of high school mathematics, knowledge of some programming language",
+    "sub": "CSE",
+    "title": "Honors Seminar",
+    "catalognumber": "199SEM"
+  },
+  {
+    "eff": "2007-01-16",
+    "req": "",
+    "sub": "CSE",
+    "title": "Programming in C",
+    "catalognumber": "203LAB"
+  },
+  {
+    "eff": "2004-08-15",
+    "req": "",
+    "sub": "CSE",
+    "title": "Programming in Prolog",
+    "catalognumber": "204LAB"
+  },
+  {
+    "eff": "2000-08-15",
+    "req": "",
+    "sub": "CSE",
+    "title": "Intro to Scientific Comp.",
+    "catalognumber": "237LEC"
+  },
+  {
+    "eff": "2022-03-01",
+    "req": "Pre-Requisites: Engineering Majors, Computer Science Minors, or Computing and Applied Math Majors only",
+    "sub": "CSE",
+    "title": "Digital Systems",
+    "catalognumber": "241LLB"
+  },
+  {
+    "eff": "2023-03-01",
+    "req": "Pre-Requisite: CSE 116 and (CSE 191 or MTH 311) and (MTH 141 or MTH 131 or MTH 121 or MTH 137).\\nEngineering, Bioinformatics, Computational Physics, or Math Majors, Computer Science Minors, and Data Intesive Computing Certificate students only",
+    "sub": "CSE",
+    "title": "Data Structures",
+    "catalognumber": "250LR"
+  },
+  {
+    "eff": "2023-10-01",
+    "req": "Pre-Requisite: CSE 250 and Computer Science, Computer Engineering, Computational Physics or Bioinformatics majors only.",
+    "sub": "CSE",
+    "title": "Introduction to Programming Languages",
+    "catalognumber": "305LR"
+  },
+  {
+    "eff": "1999-08-15",
+    "req": "",
+    "sub": "CSE",
+    "title": "Declarative Prog Lang",
+    "catalognumber": "315REC"
+  },
+  {
+    "eff": "2023-10-01",
+    "req": "Pre-Requisite: CSE 220\\nCo-Requisite: CSE 250\\nComputer Science, Computer Engineering, or Bioinformatics majors only.",
+    "sub": "CSE",
+    "title": "Real -Time and Embedded Operating Systems",
+    "catalognumber": "321LR"
+  },
+  {
+    "eff": "2024-10-01",
+    "req": "Pre-Requisite: MTH 142 or MTH139 or MTH 122, and CSE 250 and (CSE 191 or MTH 311). Computer Science, Computer Engineering, or Bioinformatics majors only.",
+    "sub": "CSE",
+    "title": "Algorithms and Complexity",
+    "catalognumber": "331LR"
+  },
+  {
+    "eff": "2020-03-01",
+    "req": "Pre-Requisite: MTH 141 with a grade of C or higher.",
+    "sub": "CSE",
+    "title": "Introduction to Scientific Computing",
+    "catalognumber": "337LLB"
+  },
+  {
+    "eff": "2022-03-01",
+    "req": "Pre-Requisite: EE 178 or CSE 241 or CSE 220\\nComputer Science, Computer Engineering, Electrical Engineering, or Bioinformatics majors only",
+    "sub": "CSE",
+    "title": "Computer Organization",
+    "catalognumber": "341LR"
+  },
+  {
+    "eff": "2001-01-01",
+    "req": "",
+    "sub": "CSE",
+    "title": "Soft Design Devel & Test",
+    "catalognumber": "351LEC"
+  },
+  {
+    "eff": "2000-01-01",
+    "req": "Pre-Requisite: CSE241 OR CSE341 OR EE 178 and Computer Science, Computer Engineering, Electrical Engineering, or Bioinformatics majors only. Students must complete a mandatory advisement session with their faculty advisor.",
+    "sub": "CSE",
+    "title": "Introduction to Microprocessors and Microcomputers",
+    "catalognumber": "379LAB"
+  },
+  {
+    "eff": "2022-03-01",
+    "req": "Pre-Requisite: CSE241 OR CSE341 OR EE 178 and Computer Science, Computer Engineering, Electrical Engineering, or Bioinformatics majors only. Students must complete a mandatory advisement session with their faculty advisor.",
+    "sub": "CSE",
+    "title": "Introduction to Microprocessors",
+    "catalognumber": "379LLB"
+  },
+  {
+    "eff": "2018-03-01",
+    "req": "Co-Requisite: CSE 379\\nPre-Requisite: CSE 241 or EE 378 or EE 278\\nApproved Computer Science, Computer Engineering, Electrical Engineering, or Bioinformatics/CS Majors Only",
+    "sub": "CSE",
+    "title": "Introduction to Microprocessors and Microcomputers Lab",
+    "catalognumber": "380LR"
+  },
+  {
+    "eff": "2007-01-16",
+    "req": "",
+    "sub": "CSE",
+    "title": "Problem Seminar",
+    "catalognumber": "391SEM"
+  },
+  {
+    "eff": "2023-10-01",
+    "req": "Pre-Requisite: CSE 191 or MTH311 and CSE 250, and MTH142 or MTH 139.\\nComputer Science, Computer Engineering, or Bioinformatics majors only. Students must complete a mandatory advisement session with their faculty advisor.",
+    "sub": "CSE",
+    "title": "Introduction to the Theory of Computation",
+    "catalognumber": "396LR"
+  },
+  {
+    "eff": "2004-08-15",
+    "req": "",
+    "sub": "CSE",
+    "title": "Embedded Systems",
+    "catalognumber": "405LEC"
+  },
+  {
+    "eff": "2023-10-01",
+    "req": "Pre-Requisite: Computer Science, Computer Engineering, or Bioinformatics majors only.",
+    "sub": "CSE",
+    "title": "Introduction to Computer Systems Administration",
+    "catalognumber": "411LEC"
+  },
+  {
+    "eff": "2018-03-01",
+    "req": "",
+    "sub": "CSE",
+    "title": "E-Commerce Technology",
+    "catalognumber": "416LEC"
+  },
+  {
+    "eff": "1999-08-15",
+    "req": "",
+    "sub": "CSE",
+    "title": "Image Processing",
+    "catalognumber": "429LAB"
+  },
+  {
+    "eff": "2023-03-01",
+    "req": "Pre-Requisite: CSE 115, (MTH 241 or MTH 251), MTH 306, and MTH 309 with grades of C or higher.",
+    "sub": "CSE",
+    "title": "Introduction to Numerical Analysis I",
+    "catalognumber": "437LLB"
+  },
+  {
+    "eff": "2020-03-01",
+    "req": "Pre-Requisite: CSE 437 or MTH 437.",
+    "sub": "CSE",
+    "title": "Introduction to Numerical Analysis II",
+    "catalognumber": "438LLB"
+  },
+  {
+    "eff": "2024-03-01",
+    "req": "Pre-Requisite: CSE 220; Co-Requisite: CSE 341; Computer Science, Computer Engineering, or Bioinformatics majors only. Students must complete a mandatory advisement session with their faculty advisor.",
+    "sub": "CSE",
+    "title": "Compilers",
+    "catalognumber": "443LR"
+  },
+  {
+    "eff": "2001-08-15",
+    "req": "",
+    "sub": "CSE",
+    "title": "Co-Op Summer",
+    "catalognumber": "444LAB"
+  },
+  {
+    "eff": "2006-08-28",
+    "req": "",
+    "sub": "CSE",
+    "title": "Co-Op Summer",
+    "catalognumber": "444TUT"
+  },
+  {
+    "eff": "2001-08-15",
+    "req": "",
+    "sub": "CSE",
+    "title": "Co-Op Fall",
+    "catalognumber": "445LAB"
+  },
+  {
+    "eff": "1999-01-01",
+    "req": "",
+    "sub": "CSE",
+    "title": "Program Development",
+    "catalognumber": "451LEC"
+  },
+  {
+    "eff": "1996-01-01",
+    "req": "",
+    "sub": "CSE",
+    "title": "Program Development",
+    "catalognumber": "451REC"
+  },
+  {
+    "eff": "2011-05-23",
+    "req": "",
+    "sub": "CSE",
+    "title": "Database Concepts",
+    "catalognumber": "462LR"
+  },
+  {
+    "eff": "2011-05-23",
+    "req": "",
+    "sub": "CSE",
+    "title": "Database Concepts",
+    "catalognumber": "462REC"
+  },
+  {
+    "eff": "2011-05-23",
+    "req": "",
+    "sub": "CSE",
+    "title": "Intro Artificial Intel",
+    "catalognumber": "472LR"
+  },
+  {
+    "eff": "2011-05-23",
+    "req": "",
+    "sub": "CSE",
+    "title": "Intro Artificial Intel",
+    "catalognumber": "472REC"
+  },
+  {
+    "eff": "2023-10-01",
+    "req": "Pre-Requisite: CSE 450; Computer Science, Computer Engineering, or Bioinformatics majors only.",
+    "sub": "CSE",
+    "title": "Hardware/Software Integrated Systems Design 2",
+    "catalognumber": "453LEC"
+  },
+  {
+    "eff": "2023-10-01",
+    "req": "Pre-Requisite: CSE 250 and CSE 350 OR CSE 460;\\nComputer Science, Computer Engineering, or Bioinformatics majors only. Students must complete a mandatory advisement session with their faculty advisor.",
+    "sub": "CSE",
+    "title": "Database Systems",
+    "catalognumber": "462LEC"
+  },
+  {
+    "eff": "2007-01-16",
+    "req": "",
+    "sub": "CSE",
+    "title": "Intro Artificial Intel",
+    "catalognumber": "472LEC"
+  },
+  {
+    "eff": "2018-03-01",
+    "req": "",
+    "sub": "CSE",
+    "title": "Modern Computer Systems",
+    "catalognumber": "475LLR"
+  },
+  {
+    "eff": "2007-01-16",
+    "req": "",
+    "sub": "CSE",
+    "title": "Computer Graphics",
+    "catalognumber": "480LEC"
+  },
+  {
+    "eff": "2018-03-01",
+    "req": "Junior or Senior standing, or permission of instructor",
+    "sub": "CSE",
+    "title": "Philosophy of Computer Science",
+    "catalognumber": "484LR"
+  },
+  {
+    "eff": "2023-10-01",
+    "req": "Pre-Requisite: CSE 250 and Computer Science, Computer Engineering, or Bioinformatics majors only. Departmental senior standing recommended. Students must complete a mandatory advisement session with their faculty advisor.",
+    "sub": "CSE",
+    "title": "Data Intensive Computing",
+    "catalognumber": "487LEC"
+  },
+  {
+    "eff": "2007-01-16",
+    "req": "Pre-Requisite: CSE 341 or CSE 379 and Computer Science, Computer Engineering, or Bioinformatics majors only",
+    "sub": "CSE",
+    "title": "Computer Architecture",
+    "catalognumber": "490LAB"
+  },
+  {
+    "eff": "2024-03-01",
+    "req": "",
+    "sub": "CSE",
+    "title": "Undergraduate Peer Mentoring",
+    "catalognumber": "492TUT"
+  },
+  {
+    "eff": "2024-03-01",
+    "req": "Pre-Requisite: Completion of year 1-3 major requirements",
+    "sub": "CSE",
+    "title": "Senior Capstone/Seminar",
+    "catalognumber": "494SEM"
+  },
+  {
+    "eff": "2024-03-01",
+    "req": "Pre-Requisite: Junior status, 3.0 QPA, A- or better in course teaching, permission of instructor",
+    "sub": "CSE",
+    "title": "Supervised Teaching",
+    "catalognumber": "495TUT"
+  },
+  {
+    "eff": "2022-03-01",
+    "req": "Computer Science, Computer Engineering, or Bioinformatics majors only and CSE 250 or Permission of CSE Internship Coordinator.",
+    "sub": "CSE",
+    "title": "Internship/Practicum",
+    "catalognumber": "496TUT"
+  },
+  {
+    "eff": "2006-08-28",
+    "req": "",
+    "sub": "CSE",
+    "title": "Departmental Honors Thesis or Project",
+    "catalognumber": "497LEC"
+  },
+  {
+    "eff": "2011-08-29",
+    "req": "Pre-Requisite: Acceptance into departmental honors program and permission of instructor",
+    "sub": "CSE",
+    "title": "Departmental Honors Thesis or Project",
+    "catalognumber": "497TUT"
+  },
+  {
+    "eff": "2022-03-01",
+    "req": "",
+    "sub": "CSE",
+    "title": "Undergraduate Research and Creative Activity",
+    "catalognumber": "498TUT"
+  },
+  {
+    "eff": "2022-03-01",
+    "req": "",
+    "sub": "CSE",
+    "title": "Independent Study",
+    "catalognumber": "499TUT"
+  },
+  {
+    "eff": "2025-03-01",
+    "req": "Prerequisites: CSE 250, CSE 220, Bioinformatics, Computer Science or Computer Science Engineering majors only or permission of the department. SEAS faculty advising is required to enroll in this course.",
+    "sub": "CSE",
+    "title": "Intro to Experiential Learning/Research",
+    "catalognumber": "302LR"
+  },
+  {
+    "eff": "2011-05-23",
+    "req": "",
+    "sub": "CSE",
+    "title": "Intro Computer Science 1",
+    "catalognumber": "113LEC"
+  },
+  {
+    "eff": "1996-01-01",
+    "req": "",
+    "sub": "CSE",
+    "title": "Intro Computer Science 1",
+    "catalognumber": "113REC"
+  },
+  {
+    "eff": "2011-05-23",
+    "req": "",
+    "sub": "CSE",
+    "title": "Intro Computer Science 2",
+    "catalognumber": "114LLB"
+  },
+  {
+    "eff": "1996-01-01",
+    "req": "",
+    "sub": "CSE",
+    "title": "Intro Computer Science 2",
+    "catalognumber": "114REC"
+  },
+  {
+    "eff": "2011-05-23",
+    "req": "",
+    "sub": "CSE",
+    "title": "Intro to CS Majors 1",
+    "catalognumber": "115LEC"
+  },
+  {
+    "eff": "1999-01-01",
+    "req": "",
+    "sub": "CSE",
+    "title": "Applic in Computer Sci",
+    "catalognumber": "126LEC"
+  },
+  {
+    "eff": "1999-01-01",
+    "req": "",
+    "sub": "CSE",
+    "title": "Horizons of the Sciences",
+    "catalognumber": "135LEC"
+  },
+  {
+    "eff": "2011-05-23",
+    "req": "",
+    "sub": "CSE",
+    "title": "Intro to Discrete Math",
+    "catalognumber": "191LEC"
+  },
+  {
+    "eff": "1996-01-01",
+    "req": "",
+    "sub": "CSE",
+    "title": "Intro to Discrete Math",
+    "catalognumber": "191REC"
+  },
+  {
+    "eff": "1996-01-01",
+    "req": "",
+    "sub": "CSE",
+    "title": "Intro to Discrete Math",
+    "catalognumber": "192REC"
+  },
+  {
+    "eff": "1999-01-01",
+    "req": "",
+    "sub": "CSE",
+    "title": "Programming in Ada",
+    "catalognumber": "201LAB"
+  },
+  {
+    "eff": "2011-05-23",
+    "req": "",
+    "sub": "CSE",
+    "title": "Programming in Lisp",
+    "catalognumber": "202LAB"
+  },
+  {
+    "eff": "1999-01-01",
+    "req": "",
+    "sub": "CSE",
+    "title": "Cont Sci Conflict & Res",
+    "catalognumber": "222LEC"
+  },
+  {
+    "eff": "1996-01-01",
+    "req": "",
+    "sub": "CSE",
+    "title": "Intro to Scientific Comp.",
+    "catalognumber": "237LAB"
+  },
+  {
+    "eff": "2011-05-23",
+    "req": "",
+    "sub": "CSE",
+    "title": "Digital Systems",
+    "catalognumber": "241LEC"
+  },
+  {
+    "eff": "1996-01-01",
+    "req": "",
+    "sub": "CSE",
+    "title": "Digital Systems",
+    "catalognumber": "241REC"
+  },
+  {
+    "eff": "2011-05-23",
+    "req": "",
+    "sub": "CSE",
+    "title": "Algorithms & Data Struc",
+    "catalognumber": "250LEC"
+  },
+  {
+    "eff": "1996-01-01",
+    "req": "",
+    "sub": "CSE",
+    "title": "Algorithms & Data Struc",
+    "catalognumber": "250REC"
+  },
+  {
+    "eff": "2011-05-23",
+    "req": "",
+    "sub": "CSE",
+    "title": "Programming Languages",
+    "catalognumber": "305LEC"
+  },
+  {
+    "eff": "1996-01-01",
+    "req": "",
+    "sub": "CSE",
+    "title": "Programming Languages",
+    "catalognumber": "305REC"
+  },
+  {
+    "eff": "2011-05-23",
+    "req": "",
+    "sub": "CSE",
+    "title": "Declarative Prog Lang",
+    "catalognumber": "315LEC"
+  },
+  {
+    "eff": "2011-05-23",
+    "req": "",
+    "sub": "CSE",
+    "title": "Computer Organization",
+    "catalognumber": "341REC"
+  },
+  {
+    "eff": "1999-01-01",
+    "req": "",
+    "sub": "CSE",
+    "title": "Advanced Data Structures",
+    "catalognumber": "350LEC"
+  },
+  {
+    "eff": "1999-01-01",
+    "req": "",
+    "sub": "CSE",
+    "title": "Advanced Data Structures",
+    "catalognumber": "350REC"
+  },
+  {
+    "eff": "1996-01-01",
+    "req": "",
+    "sub": "CSE",
+    "title": "Soft Design Devel & Test",
+    "catalognumber": "351REC"
+  },
+  {
+    "eff": "2011-05-23",
+    "req": "",
+    "sub": "CSE",
+    "title": "Intro Theory of Computatn",
+    "catalognumber": "396REC"
+  },
+  {
+    "eff": "1996-01-01",
+    "req": "",
+    "sub": "CSE",
+    "title": "Operating Systems",
+    "catalognumber": "421REC"
+  },
+  {
+    "eff": "1996-01-01",
+    "req": "",
+    "sub": "CSE",
+    "title": "Algorithms Anal & Dsgn 1",
+    "catalognumber": "431REC"
+  },
+  {
+    "eff": "1999-01-01",
+    "req": "",
+    "sub": "CSE",
+    "title": "Intro Numeric Analysis 1",
+    "catalognumber": "437LEC"
+  },
+  {
+    "eff": "1996-01-01",
+    "req": "",
+    "sub": "CSE",
+    "title": "Intro to Numerical Anal 1",
+    "catalognumber": "437REC"
+  },
+  {
+    "eff": "1999-01-01",
+    "req": "",
+    "sub": "CSE",
+    "title": "Intro Numeric Analysis 2",
+    "catalognumber": "438LEC"
+  },
+  {
+    "eff": "1993-08-15",
+    "req": "",
+    "sub": "CSE",
+    "title": "Logic Design&Compu Organz",
+    "catalognumber": "441REC"
+  },
+  {
+    "eff": "1999-01-01",
+    "req": "",
+    "sub": "CSE",
+    "title": "Language Processors Intro",
+    "catalognumber": "443LEC"
+  },
+  {
+    "eff": "1996-01-01",
+    "req": "",
+    "sub": "CSE",
+    "title": "Language Processors Intro",
+    "catalognumber": "443REC"
+  },
+  {
+    "eff": "1996-01-01",
+    "req": "",
+    "sub": "CSE",
+    "title": "Computer Graphics",
+    "catalognumber": "480REC"
+  },
+  {
+    "eff": "1999-01-01",
+    "req": "",
+    "sub": "CSE",
+    "title": "Computer Math Fundmtls",
+    "catalognumber": "491REC"
+  },
+  {
+    "eff": "1999-01-01",
+    "req": "",
+    "sub": "CSE",
+    "title": "Graph & Combntorl Algrthm",
+    "catalognumber": "494LEC"
+  },
+  {
+    "eff": "1999-01-01",
+    "req": "",
+    "sub": "CSE",
+    "title": "Intro Theory of Computatn",
+    "catalognumber": "496LEC"
+  },
+  {
+    "eff": "1999-01-01",
+    "req": "",
+    "sub": "CSE",
+    "title": "Intro Theory of Computatn",
+    "catalognumber": "496REC"
+  },
+  {
+    "eff": "1999-01-01",
+    "req": "",
+    "sub": "ECE",
+    "title": "Discrete Time Systems",
+    "catalognumber": "201LEC"
+  },
+  {
+    "eff": "1999-01-01",
+    "req": "",
+    "sub": "ECE",
+    "title": "Circuit Analysis 1",
+    "catalognumber": "202LEC"
+  },
+  {
+    "eff": "1992-08-15",
+    "req": "",
+    "sub": "ECE",
+    "title": "Circuit Analysis 1",
+    "catalognumber": "202REC"
+  },
+  {
+    "eff": "1999-01-01",
+    "req": "",
+    "sub": "ECE",
+    "title": "Circuit Analysis 2",
+    "catalognumber": "203LEC"
+  },
+  {
+    "eff": "1992-08-15",
+    "req": "",
+    "sub": "ECE",
+    "title": "Circuit Analysis 2",
+    "catalognumber": "203REC"
+  },
+  {
+    "eff": "1999-01-01",
+    "req": "",
+    "sub": "ECE",
+    "title": "Circuit Analysis 1 Lab",
+    "catalognumber": "207LAB"
+  },
+  {
+    "eff": "1999-01-01",
+    "req": "",
+    "sub": "ECE",
+    "title": "Microcomp Assembly Lang",
+    "catalognumber": "275LEC"
+  },
+  {
+    "eff": "1994-01-01",
+    "req": "",
+    "sub": "ECE",
+    "title": "Circuit Analysis 2",
+    "catalognumber": "301LEC"
+  },
+  {
+    "eff": "1994-01-01",
+    "req": "",
+    "sub": "ECE",
+    "title": "Circuit Analysis 2",
+    "catalognumber": "301REC"
+  },
+  {
+    "eff": "1999-01-01",
+    "req": "",
+    "sub": "ECE",
+    "title": "Signal Anal & Trans Meth",
+    "catalognumber": "303LEC"
+  },
+  {
+    "eff": "1999-01-01",
+    "req": "",
+    "sub": "ECE",
+    "title": "Signal Anal&Trans Meth",
+    "catalognumber": "303REC"
+  },
+  {
+    "eff": "1999-01-01",
+    "req": "",
+    "sub": "ECE",
+    "title": "Electronic Devs & Circs 1",
+    "catalognumber": "310LEC"
+  },
+  {
+    "eff": "1999-01-01",
+    "req": "",
+    "sub": "ECE",
+    "title": "Electronic Devs & Circs 2",
+    "catalognumber": "311LEC"
+  },
+  {
+    "eff": "1999-01-01",
+    "req": "",
+    "sub": "ECE",
+    "title": "Basic Elec Instru Lab",
+    "catalognumber": "312LAB"
+  },
+  {
+    "eff": "1999-01-01",
+    "req": "",
+    "sub": "ECE",
+    "title": "Basic Elec Instru Lab",
+    "catalognumber": "312LEC"
+  },
+  {
+    "eff": "1999-01-01",
+    "req": "",
+    "sub": "ECE",
+    "title": "Electromagnetic Theory",
+    "catalognumber": "324LEC"
+  },
+  {
+    "eff": "1999-01-01",
+    "req": "",
+    "sub": "ECE",
+    "title": "Electromagnetic Theory",
+    "catalognumber": "324REC"
+  },
+  {
+    "eff": "1999-01-01",
+    "req": "",
+    "sub": "ECE",
+    "title": "Electromechanics",
+    "catalognumber": "326LEC"
+  },
+  {
+    "eff": "1999-01-01",
+    "req": "",
+    "sub": "ECE",
+    "title": "Physical Electronics",
+    "catalognumber": "350LEC"
+  },
+  {
+    "eff": "1999-01-01",
+    "req": "",
+    "sub": "ECE",
+    "title": "Physical Electronics",
+    "catalognumber": "350REC"
+  },
+  {
+    "eff": "1999-01-01",
+    "req": "",
+    "sub": "ECE",
+    "title": "Electronic Circuits",
+    "catalognumber": "351LR"
+  },
+  {
+    "eff": "1996-08-15",
+    "req": "",
+    "sub": "ECE",
+    "title": "Intro Electronics Lab",
+    "catalognumber": "352LAB"
+  },
+  {
+    "eff": "1999-01-01",
+    "req": "",
+    "sub": "ECE",
+    "title": "Intro Electronics Lab",
+    "catalognumber": "352LEC"
+  },
+  {
+    "eff": "1999-01-01",
+    "req": "",
+    "sub": "ECE",
+    "title": "Electronic Circuits",
+    "catalognumber": "353LEC"
+  },
+  {
+    "eff": "1999-01-01",
+    "req": "",
+    "sub": "ECE",
+    "title": "Digital Principles",
+    "catalognumber": "378LEC"
+  },
+  {
+    "eff": "1999-01-01",
+    "req": "",
+    "sub": "ECE",
+    "title": "Intro to Microcomputers",
+    "catalognumber": "379LAB"
+  },
+  {
+    "eff": "1999-01-01",
+    "req": "",
+    "sub": "ECE",
+    "title": "Intro to Microcomputers",
+    "catalognumber": "379LEC"
+  },
+  {
+    "eff": "1999-01-01",
+    "req": "",
+    "sub": "ECE",
+    "title": "Microproc/Microcomps Lab",
+    "catalognumber": "380LEC"
+  },
+  {
+    "eff": "1999-01-01",
+    "req": "",
+    "sub": "ECE",
+    "title": "Rf/Microwave Circuits 1",
+    "catalognumber": "401LEC"
+  },
+  {
+    "eff": "1999-01-01",
+    "req": "",
+    "sub": "ECE",
+    "title": "Networks",
+    "catalognumber": "402LEC"
+  },
+  {
+    "eff": "1999-01-01",
+    "req": "",
+    "sub": "ECE",
+    "title": "Gaseous Electronics",
+    "catalognumber": "403LEC"
+  },
+  {
+    "eff": "1999-01-01",
+    "req": "",
+    "sub": "ECE",
+    "title": "Electromagnetic Theory 2",
+    "catalognumber": "404LEC"
+  },
+  {
+    "eff": "1999-01-01",
+    "req": "",
+    "sub": "ECE",
+    "title": "Analy Tech Elec Eng I",
+    "catalognumber": "405LEC"
+  },
+  {
+    "eff": "1999-01-01",
+    "req": "",
+    "sub": "ECE",
+    "title": "Senior Seminar",
+    "catalognumber": "408SEM"
+  },
+  {
+    "eff": "1999-01-01",
+    "req": "",
+    "sub": "ECE",
+    "title": "Electron Instrmt Design 1",
+    "catalognumber": "410LEC"
+  },
+  {
+    "eff": "1999-01-01",
+    "req": "",
+    "sub": "ECE",
+    "title": "Engineer & Med Diagnosis",
+    "catalognumber": "412LEC"
+  },
+  {
+    "eff": "1999-01-01",
+    "req": "",
+    "sub": "ECE",
+    "title": "Electron Instrmt Design 2",
+    "catalognumber": "413LEC"
+  },
+  {
+    "eff": "1999-01-01",
+    "req": "",
+    "sub": "ECE",
+    "title": "Active Filter Design",
+    "catalognumber": "415LEC"
+  },
+  {
+    "eff": "1999-01-01",
+    "req": "",
+    "sub": "ECE",
+    "title": "Signal Process Algorithms",
+    "catalognumber": "416LEC"
+  },
+  {
+    "eff": "1999-01-01",
+    "req": "",
+    "sub": "ECE",
+    "title": "Indl Control Systems",
+    "catalognumber": "419LEC"
+  },
+  {
+    "eff": "1999-01-01",
+    "req": "",
+    "sub": "ECE",
+    "title": "Energy Consrv Motr Dr Sys",
+    "catalognumber": "420LEC"
+  },
+  {
+    "eff": "1999-01-01",
+    "req": "",
+    "sub": "ECE",
+    "title": "Energy Consrv Motr Dr Sys",
+    "catalognumber": "420REC"
+  },
+  {
+    "eff": "1999-01-01",
+    "req": "",
+    "sub": "ECE",
+    "title": "Semi-Conductor Materials",
+    "catalognumber": "421LEC"
+  },
+  {
+    "eff": "1999-01-01",
+    "req": "",
+    "sub": "ECE",
+    "title": "Intro Power Generation 1",
+    "catalognumber": "423LEC"
+  },
+  {
+    "eff": "1999-01-01",
+    "req": "",
+    "sub": "ECE",
+    "title": "Intro Power Generation 2",
+    "catalognumber": "424LEC"
+  },
+  {
+    "eff": "1999-01-01",
+    "req": "",
+    "sub": "ECE",
+    "title": "Electronic Devices 1",
+    "catalognumber": "425LAB"
+  },
+  {
+    "eff": "1999-01-01",
+    "req": "",
+    "sub": "ECE",
+    "title": "Electronic Devices 1",
+    "catalognumber": "425LEC"
+  },
+  {
+    "eff": "1999-01-01",
+    "req": "",
+    "sub": "ECE",
+    "title": "Electrical Devices 2",
+    "catalognumber": "426LEC"
+  },
+  {
+    "eff": "1999-01-01",
+    "req": "",
+    "sub": "ECE",
+    "title": "Intro to Plasma Physics I",
+    "catalognumber": "427LEC"
+  },
+  {
+    "eff": "1999-01-01",
+    "req": "",
+    "sub": "ECE",
+    "title": "Intro to Plasma Physics 2",
+    "catalognumber": "428LEC"
+  },
+  {
+    "eff": "1999-01-01",
+    "req": "",
+    "sub": "ECE",
+    "title": "Image Processing",
+    "catalognumber": "429LAB"
+  },
+  {
+    "eff": "1999-01-01",
+    "req": "",
+    "sub": "ECE",
+    "title": "Image Processing",
+    "catalognumber": "429LEC"
+  },
+  {
+    "eff": "1999-01-01",
+    "req": "",
+    "sub": "ECE",
+    "title": "Analy Tech Elec Engn 2",
+    "catalognumber": "432LEC"
+  },
+  {
+    "eff": "1999-01-01",
+    "req": "",
+    "sub": "ECE",
+    "title": "Analyt Tech Elec Engrg 3",
+    "catalognumber": "433LEC"
+  },
+  {
+    "eff": "1999-01-01",
+    "req": "",
+    "sub": "ECE",
+    "title": "Co-Op Program Session 1",
+    "catalognumber": "436LAB"
+  },
+  {
+    "eff": "1999-01-01",
+    "req": "",
+    "sub": "ECE",
+    "title": "Co-Op Program Session 2",
+    "catalognumber": "437LAB"
+  },
+  {
+    "eff": "1999-01-01",
+    "req": "",
+    "sub": "ECE",
+    "title": "Co-Op Program Session 3",
+    "catalognumber": "438LAB"
+  },
+  {
+    "eff": "1999-01-01",
+    "req": "",
+    "sub": "ECE",
+    "title": "ECE Internship",
+    "catalognumber": "439TUT"
+  },
+  {
+    "eff": "1999-01-01",
+    "req": "",
+    "sub": "ECE",
+    "title": "Internship",
+    "catalognumber": "440TUT"
+  },
+  {
+    "eff": "1999-01-01",
+    "req": "",
+    "sub": "ECE",
+    "title": "Software Eng Concepts",
+    "catalognumber": "442LEC"
+  },
+  {
+    "eff": "1999-01-01",
+    "req": "",
+    "sub": "ECE",
+    "title": "Microeltrn Dvc Fabrctin",
+    "catalognumber": "448LEC"
+  },
+  {
+    "eff": "1999-01-01",
+    "req": "",
+    "sub": "ECE",
+    "title": "Microelectronics Circuits",
+    "catalognumber": "449LEC"
+  },
+  {
+    "eff": "1999-01-01",
+    "req": "",
+    "sub": "ECE",
+    "title": "Communication Engineering",
+    "catalognumber": "452LEC"
+  },
+  {
+    "eff": "1999-01-01",
+    "req": "",
+    "sub": "ECE",
+    "title": "Communication Engrg Lab",
+    "catalognumber": "454LAB"
+  },
+  {
+    "eff": "1999-01-01",
+    "req": "",
+    "sub": "ECE",
+    "title": "Solid State Opt Dev",
+    "catalognumber": "455LEC"
+  },
+  {
+    "eff": "1999-01-01",
+    "req": "",
+    "sub": "ECE",
+    "title": "Rf/Microwave Circuits 2",
+    "catalognumber": "456LEC"
+  },
+  {
+    "eff": "1999-01-01",
+    "req": "",
+    "sub": "ECE",
+    "title": "Rf/Microwave Laboratory",
+    "catalognumber": "458LAB"
+  },
+  {
+    "eff": "1999-01-01",
+    "req": "",
+    "sub": "ECE",
+    "title": "Chrg Trans Solds Plasma",
+    "catalognumber": "461LEC"
+  },
+  {
+    "eff": "1999-01-01",
+    "req": "",
+    "sub": "ECE",
+    "title": "Princ Medical Radar Imag",
+    "catalognumber": "462LEC"
+  },
+  {
+    "eff": "1999-01-01",
+    "req": "",
+    "sub": "ECE",
+    "title": "Intro Quantum Electronics",
+    "catalognumber": "465LEC"
+  },
+  {
+    "eff": "1999-01-01",
+    "req": "",
+    "sub": "ECE",
+    "title": "Optical Communications",
+    "catalognumber": "466LEC"
+  },
+  {
+    "eff": "1999-01-01",
+    "req": "",
+    "sub": "ECE",
+    "title": "High Resol Xray Diffract",
+    "catalognumber": "469LEC"
+  },
+  {
+    "eff": "1999-01-01",
+    "req": "",
+    "sub": "ECE",
+    "title": "Digital Circuits Lab",
+    "catalognumber": "470LEC"
+  },
+  {
+    "eff": "1999-01-01",
+    "req": "",
+    "sub": "ECE",
+    "title": "Digital Systems Lab",
+    "catalognumber": "471LAB"
+  },
+  {
+    "eff": "1999-01-01",
+    "req": "",
+    "sub": "ECE",
+    "title": "Digital Systems Lab",
+    "catalognumber": "471LEC"
+  },
+  {
+    "eff": "1993-08-15",
+    "req": "",
+    "sub": "ECE",
+    "title": "Microprocessors & Applic",
+    "catalognumber": "474LAB"
+  },
+  {
+    "eff": "1993-08-15",
+    "req": "",
+    "sub": "ECE",
+    "title": "Microprocessors & Applic",
+    "catalognumber": "474LEC"
+  },
+  {
+    "eff": "1993-08-15",
+    "req": "",
+    "sub": "ECE",
+    "title": "Microprocessors & Applic",
+    "catalognumber": "474REC"
+  },
+  {
+    "eff": "1992-08-15",
+    "req": "",
+    "sub": "ECE",
+    "title": "Minicomp Sys & Interfaces",
+    "catalognumber": "475LAB"
+  },
+  {
+    "eff": "1999-01-01",
+    "req": "",
+    "sub": "ECE",
+    "title": "Minicomp Sys & Interfaces",
+    "catalognumber": "475LEC"
+  },
+  {
+    "eff": "1992-08-15",
+    "req": "",
+    "sub": "ECE",
+    "title": "Minicomp Sys & Interfaces",
+    "catalognumber": "475REC"
+  },
+  {
+    "eff": "1999-01-01",
+    "req": "",
+    "sub": "ECE",
+    "title": "Switching Circuit Theory",
+    "catalognumber": "476LEC"
+  },
+  {
+    "eff": "1999-01-01",
+    "req": "",
+    "sub": "ECE",
+    "title": "Microcomputer Design 1",
+    "catalognumber": "479LEC"
+  },
+  {
+    "eff": "1994-01-01",
+    "req": "",
+    "sub": "ECE",
+    "title": "Adv Computer Architecture",
+    "catalognumber": "480LEC"
+  },
+  {
+    "eff": "1999-01-01",
+    "req": "",
+    "sub": "ECE",
+    "title": "Power Electronics Engrg 1",
+    "catalognumber": "482LAB"
+  },
+  {
+    "eff": "1999-01-01",
+    "req": "",
+    "sub": "ECE",
+    "title": "Power Electronics Engrg 1",
+    "catalognumber": "482LEC"
+  },
+  {
+    "eff": "1999-01-01",
+    "req": "",
+    "sub": "ECE",
+    "title": "Communications Systems 1",
+    "catalognumber": "483LEC"
+  },
+  {
+    "eff": "1999-01-01",
+    "req": "",
+    "sub": "ECE",
+    "title": "Communications Systems 2",
+    "catalognumber": "484LEC"
+  },
+  {
+    "eff": "1999-01-01",
+    "req": "",
+    "sub": "ECE",
+    "title": "Information Structure",
+    "catalognumber": "487LEC"
+  },
+  {
+    "eff": "1999-01-01",
+    "req": "",
+    "sub": "ECE",
+    "title": "Modern Network Concepts",
+    "catalognumber": "489LEC"
+  },
+  {
+    "eff": "1999-01-01",
+    "req": "",
+    "sub": "ECE",
+    "title": "Design High Perf Comp Sys",
+    "catalognumber": "490LAB"
+  },
+  {
+    "eff": "1999-01-01",
+    "req": "",
+    "sub": "ECE",
+    "title": "Design High Perf Comp Sys",
+    "catalognumber": "490LEC"
+  },
+  {
+    "eff": "1999-01-01",
+    "req": "",
+    "sub": "ECE",
+    "title": "Design High Perf Comp Sys",
+    "catalognumber": "490REC"
+  },
+  {
+    "eff": "1993-01-01",
+    "req": "",
+    "sub": "ECE",
+    "title": "Robot Geometry",
+    "catalognumber": "491LEC"
+  },
+  {
+    "eff": "1999-01-01",
+    "req": "",
+    "sub": "ECE",
+    "title": "Laser Electronics",
+    "catalognumber": "492LEC"
+  },
+  {
+    "eff": "1999-01-01",
+    "req": "",
+    "sub": "ECE",
+    "title": "Engineering Optics",
+    "catalognumber": "493LEC"
+  },
+  {
+    "eff": "1999-01-01",
+    "req": "",
+    "sub": "ECE",
+    "title": "Laser Electronics 2",
+    "catalognumber": "494LAB"
+  },
+  {
+    "eff": "1999-01-01",
+    "req": "",
+    "sub": "ECE",
+    "title": "Laser Electronics 2",
+    "catalognumber": "494LEC"
+  },
+  {
+    "eff": "1999-01-01",
+    "req": "",
+    "sub": "ECE",
+    "title": "High Voltage Engineering",
+    "catalognumber": "495LAB"
+  },
+  {
+    "eff": "1999-01-01",
+    "req": "",
+    "sub": "ECE",
+    "title": "High Voltage Engineering",
+    "catalognumber": "495LEC"
+  },
+  {
+    "eff": "1999-01-01",
+    "req": "",
+    "sub": "ECE",
+    "title": "Intro VLSI Electronics",
+    "catalognumber": "497LEC"
+  },
+  {
+    "eff": "1999-01-01",
+    "req": "",
+    "sub": "ECE",
+    "title": "VLSI Testing",
+    "catalognumber": "498LEC"
+  },
+  {
+    "eff": "1999-01-01",
+    "req": "",
+    "sub": "ECE",
+    "title": "Independent Study",
+    "catalognumber": "499TUT"
+  },
+  {
+    "eff": "1997-01-01",
+    "req": "",
+    "sub": "CSE",
+    "title": "CS and Math - How Related",
+    "catalognumber": "100SEM"
+  },
+  {
+    "eff": "1999-01-01",
+    "req": "",
+    "sub": "CSE",
+    "title": "Computers a General Intro",
+    "catalognumber": "101LEC"
+  },
+  {
+    "eff": "1996-01-01",
+    "req": "",
+    "sub": "CSE",
+    "title": "Great Ideas in CS 1",
+    "catalognumber": "111LAB"
+  },
+  {
+    "eff": "1999-01-01",
+    "req": "",
+    "sub": "CSE",
+    "title": "Great Ideas in CS 1",
+    "catalognumber": "111LEC"
+  },
+  {
+    "eff": "1996-01-01",
+    "req": "",
+    "sub": "CSE",
+    "title": "Great Ideas in CS 11",
+    "catalognumber": "112LAB"
+  },
+  {
+    "eff": "1999-01-01",
+    "req": "",
+    "sub": "ECE",
+    "title": "Special Topics",
+    "catalognumber": "441LEC"
+  },
+  {
+    "eff": "1999-01-01",
+    "req": "",
+    "sub": "ECE",
+    "title": "Special Topics",
+    "catalognumber": "450LEC"
+  },
+  {
+    "eff": "1999-01-01",
+    "req": "",
+    "sub": "ECE",
+    "title": "Special Topics",
+    "catalognumber": "459LEC"
+  },
+  {
+    "eff": "1999-01-01",
+    "req": "",
+    "sub": "ECE",
+    "title": "Special Topics",
+    "catalognumber": "459TUT"
+  },
+  {
+    "eff": "1999-01-01",
+    "req": "",
+    "sub": "ECE",
+    "title": "Special Topics",
+    "catalognumber": "460LEC"
+  },
+  {
+    "eff": "1999-01-01",
+    "req": "",
+    "sub": "ECE",
+    "title": "Special Topics",
+    "catalognumber": "460TUT"
+  },
+  {
+    "eff": "2020-10-01",
+    "req": "",
+    "sub": "CSE",
+    "title": "Special Topics",
+    "catalognumber": "410LEC"
+  },
+  {
+    "eff": "2024-10-01",
+    "req": "Pre-Requisite: CSE 250 and CSE 220 Computer Science, Computer Engineering, or Bioinformatics majors only.",
+    "sub": "CSE",
+    "title": "Introduction to Operating Systems",
+    "catalognumber": "421LEC"
+  },
+  {
+    "eff": "2023-10-01",
+    "req": "Pre-Requisite: CSE 421",
+    "sub": "CSE",
+    "title": "Operating Systems Internals",
+    "catalognumber": "422LEC"
+  },
+  {
+    "eff": "2023-10-01",
+    "req": "Pre-Requisite: CSE 331.\\nApproved Computer Science, Computer Engineering, Bioinformatics/CS  Majors Only. Students must complete a mandatory advisement session with their faculty advisor.",
+    "sub": "CSE",
+    "title": "Algorithms Analysis and Design",
+    "catalognumber": "431LEC"
+  },
+  {
+    "eff": "2023-10-01",
+    "req": "Pre-Requisite: CSE 250, MTH 309; Approved Computer Science, Computer Engineering, Bioinformatics/CS Majors only. Students must complete a mandatory advisement session with their faculty advisor.",
+    "sub": "CSE",
+    "title": "Information Retrieval",
+    "catalognumber": "435LEC"
+  },
+  {
+    "eff": "2023-10-01",
+    "req": "Pre-Requisite: CSE 250; Approved Computer Science, Computer Engineering, Computational Physics, Bioinformatics/CS Majors only.  Students must 60 or more credit hours completed.",
+    "sub": "CSE",
+    "title": "Software Engineering",
+    "catalognumber": "442LR"
+  },
+  {
+    "eff": "2018-03-01",
+    "req": "Pre-Requisite: CSE 493 or Permission of instructor",
+    "sub": "CSE",
+    "title": "VLSI Testing",
+    "catalognumber": "452LEC"
+  },
+  {
+    "eff": "2023-10-01",
+    "req": "Pre-Requisite: CSE 305. Computer Science, Computer Engineering, or Bioinformatics majors only.",
+    "sub": "CSE",
+    "title": "Knowledge Representation",
+    "catalognumber": "463LEC"
+  },
+  {
+    "eff": "2025-10-01",
+    "req": "Pre-Requisite: LIN 205 or CSE 250; Bioinformatics, Computational Linguistics, Computer Science or Computer Engineering majors allowed",
+    "sub": "CSE",
+    "title": "Computational Linguistics",
+    "catalognumber": "467LEC"
+  },
+  {
+    "eff": "2023-10-01",
+    "req": "Prerequisite: CSE250 AND (MTH411 OR STA301 OR EAS305) AND MTH309 ANDComputer Science, Computer Engineering, or Bioinformatics majors only. Students must complete a mandatory advisement session with their faculty advisor.",
+    "sub": "CSE",
+    "title": "Introduction to Computer Vision and Image Processing",
+    "catalognumber": "473LEC"
+  },
+  {
+    "eff": "1999-08-15",
+    "req": "",
+    "sub": "CSE",
+    "title": "Introduction to Computer Vision and Image Processing",
+    "catalognumber": "473REC"
+  },
+  {
+    "eff": "2024-10-01",
+    "req": "Pre-Requisite: CSE 250 and (EAS 305 or EE 305 or CIE 308 or MTH 411 or STA 301 and STA 301REC) and MTH 309.Computer Science, Computer Engineering, or Bioinformatics majors only",
+    "sub": "CSE",
+    "title": "Introduction to Machine Learning",
+    "catalognumber": "474LEC"
+  },
+  {
+    "eff": "1999-08-15",
+    "req": "",
+    "sub": "CSE",
+    "title": "Introduction to Machine Learning",
+    "catalognumber": "474REC"
+  },
+  {
+    "eff": "2023-10-01",
+    "req": "Pre-Requisite: CSE 220 and CSE 250; Computer Science, Computer Engineering, or Bioinformatics majors only. Students must complete a mandatory advisement session with their faculty advisor.",
+    "sub": "CSE",
+    "title": "Distributed Systems",
+    "catalognumber": "486LEC"
+  },
+  {
+    "eff": "2005-08-15",
+    "req": "Pre-Requisite: CSE 220 and CSE 250; Computer Science, Computer Engineering, or Bioinformatics majors only. Students must complete a mandatory advisement session with their faculty advisor.",
+    "sub": "CSE",
+    "title": "Distributed Systems",
+    "catalognumber": "486REC"
+  },
+  {
+    "eff": "2025-03-01",
+    "req": "Pre-Requisite: CSE 250 and CSE 220 and EAS 305 or MTH 411 or STA301 and Computer Science, Computer Engineering, or Bioinformatics majors only.  Students must complete a mandatory advisement session with their faculty advisor.",
+    "sub": "CSE",
+    "title": "Modern Networking Concepts",
+    "catalognumber": "489LEC"
+  },
+  {
+    "eff": "2023-10-01",
+    "req": "Pre-Requisite: CSE 341 or CSE 379 and Computer Science, Computer Engineering, or Bioinformatics majors only",
+    "sub": "CSE",
+    "title": "Computer Architecture",
+    "catalognumber": "490LEC"
+  },
+  {
+    "eff": "1999-08-15",
+    "req": "Pre-Requisite: CSE 341 or CSE 379 and Computer Science, Computer Engineering, or Bioinformatics majors only",
+    "sub": "CSE",
+    "title": "Computer Architecture",
+    "catalognumber": "490REC"
+  },
+  {
+    "eff": "2023-10-01",
+    "req": "Pre-Requisite: CSE341 OR EE310 and Computer Science, Computer Engineering, Electrical Engineering, or Bioinformatics majors only",
+    "sub": "CSE",
+    "title": "Introduction to VLSI Electronics",
+    "catalognumber": "493LLB"
+  },
+  {
+    "eff": "2011-05-12",
+    "req": "",
+    "sub": "ECE",
+    "title": "Special Studies Electrical and Comp Engnr",
+    "catalognumber": "11SA"
+  },
+  {
+    "eff": "2019-10-01",
+    "req": "",
+    "sub": "CSE",
+    "title": "Special Studies Computer Science",
+    "catalognumber": "11SA"
+  },
+  {
+    "eff": "2011-05-12",
+    "req": "",
+    "sub": "CSE",
+    "title": "Special Studies Computer Science",
+    "catalognumber": "1DUE"
+  },
+  {
+    "eff": "1990-12-31",
+    "req": "",
+    "sub": "ECE",
+    "title": "Electron Instrmt Design 2",
+    "catalognumber": "404"
+  },
+  {
+    "eff": "1991-12-31",
+    "req": "",
+    "sub": "ECE",
+    "title": "Electron Instrmt Design 2",
+    "catalognumber": "413"
+  },
+  {
+    "eff": "1990-12-31",
+    "req": "",
+    "sub": "ECE",
+    "title": "Electronic Circuits",
+    "catalognumber": "353"
+  },
+  {
+    "eff": "1991-08-14",
+    "req": "",
+    "sub": "CSE",
+    "title": "Computer Science Topic",
+    "catalognumber": "391"
+  },
+  {
+    "eff": "1991-08-14",
+    "req": "",
+    "sub": "ECE",
+    "title": "Physical Electronics Lab",
+    "catalognumber": "352"
+  },
+  {
+    "eff": "1990-12-31",
+    "req": "",
+    "sub": "ECE",
+    "title": "Electrical and Comp Engnr Topic",
+    "catalognumber": "203"
+  },
+  {
+    "eff": "1998-08-14",
+    "req": "",
+    "sub": "CSE",
+    "title": "Computer Science Topic",
+    "catalognumber": "115"
+  },
+  {
+    "eff": "1990-12-31",
+    "req": "",
+    "sub": "CSE",
+    "title": "Computer Science Topic",
+    "catalognumber": "315"
+  },
+  {
+    "eff": "2011-05-12",
+    "req": "",
+    "sub": "ECE",
+    "title": "Analy Tech Elec Engn 1",
+    "catalognumber": "323"
+  },
+  {
+    "eff": "2011-05-12",
+    "req": "",
+    "sub": "ECE",
+    "title": "Electromagnetic Theory 2",
+    "catalognumber": "325"
+  },
+  {
+    "eff": "2011-05-12",
+    "req": "",
+    "sub": "CSE",
+    "title": "Computer Science Topic",
+    "catalognumber": "346"
+  },
+  {
+    "eff": "2011-05-12",
+    "req": "",
+    "sub": "CSE",
+    "title": "Intro To Combinatories",
+    "catalognumber": "353"
+  },
+  {
+    "eff": "2011-05-12",
+    "req": "",
+    "sub": "CSE",
+    "title": "Programming Sys 1",
+    "catalognumber": "301"
+  },
+  {
+    "eff": "2011-05-12",
+    "req": "",
+    "sub": "CSE",
+    "title": "Comp Sys Software",
+    "catalognumber": "418"
+  },
+  {
+    "eff": "2011-05-12",
+    "req": "",
+    "sub": "CSE",
+    "title": "Boolean Alg&Log Des",
+    "catalognumber": "303"
+  },
+  {
+    "eff": "2011-05-12",
+    "req": "",
+    "sub": "CSE",
+    "title": "Computer Systems 1",
+    "catalognumber": "417"
+  },
+  {
+    "eff": "2011-05-12",
+    "req": "",
+    "sub": "CSE",
+    "title": "Data Structures",
+    "catalognumber": "362"
+  },
+  {
+    "eff": "2011-05-12",
+    "req": "",
+    "sub": "CSE",
+    "title": "Computers And Society",
+    "catalognumber": "312"
+  },
+  {
+    "eff": "2011-05-12",
+    "req": "",
+    "sub": "CSE",
+    "title": "Computer Science Topic",
+    "catalognumber": "145"
+  },
+  {
+    "eff": "2011-05-12",
+    "req": "",
+    "sub": "CSE",
+    "title": "Programming Sys 2",
+    "catalognumber": "302"
+  },
+  {
+    "eff": "2025-03-01",
+    "req": "Pre-Requisite: CSE 368 or CSE 474; Computer Science, Computer Engineering, or Bioinformatics majors only. Students must complete a mandatory advisement session with their faculty advisor.",
+    "sub": "CSE",
+    "title": "Introduction to Pattern Recognition",
+    "catalognumber": "455LEC"
+  },
+  {
+    "eff": "2020-10-01",
+    "req": "Pre-Requisite: CSE 250; Approved Computer Science, Computer Engineering, Bioinformatics/CS Majors only. Students must complete a mandatory advisement session with their faculty advisor.",
+    "sub": "CSE",
+    "title": "Introduction To Visualization",
+    "catalognumber": "456LEC"
+  },
+  {
+    "eff": "2018-03-01",
+    "req": "",
+    "sub": "CSE",
+    "title": "Introduction to Digital Multimedia",
+    "catalognumber": "433LR"
+  },
+  {
+    "eff": "2013-03-01",
+    "req": "",
+    "sub": "CSE",
+    "title": "INTRO COMPUTER SCIENCE 1",
+    "catalognumber": "113LAB"
+  },
+  {
+    "eff": "2018-03-01",
+    "req": "",
+    "sub": "CSE",
+    "title": "INTRO TO MICROPROC LAB",
+    "catalognumber": "380SA"
+  },
+  {
+    "eff": "2024-03-01",
+    "req": "Pre-Requisite: (CSE 250 or EAS 230 or EAS 240 or CSE 115 or EAS 999TRCP) and (EE305 or EAS 305 or MTH 411 or STA 301);Comp Sci, Comp Eng, Robotics Minor, or Bioinformatics majors only.  Students must complete a mandatory faculty advisement session.",
+    "sub": "CSE",
+    "title": "Robotics Algorithms",
+    "catalognumber": "468LEC"
+  },
+  {
+    "eff": "2023-10-01",
+    "req": "Pre-Requisite: CSE 191, CSE 250 and MTH 142 or MTH 139\\nComputer Science, Computer Engineering, or Bioinformatics/CS Majors only. Students must complete a mandatory advisement session with their faculty advisor.",
+    "sub": "CSE",
+    "title": "Algorithms for Modern Computing Systems",
+    "catalognumber": "429LEC"
+  },
+  {
+    "eff": "2018-03-01",
+    "req": "Prerequisite: CSE250LR: Data Structures; Computer Science, Computer Engineering, or Bioinformatics-CS majors only. Students must complete a mandatory advisement session with their faculty advisor.",
+    "sub": "CSE",
+    "title": "Introduction to Operating Systems",
+    "catalognumber": "320LR"
+  },
+  {
+    "eff": "2024-03-01",
+    "req": "Pre-Requisite:  CSE 115 or EAS 230 or EAS 240 or EAS 999TRCP;\\nComputer Science, Computer Engineering, or Bioinformatics majors only.",
+    "sub": "CSE",
+    "title": "Programming with Python",
+    "catalognumber": "408LEC"
+  },
+  {
+    "eff": "2025-03-01",
+    "req": "Pre-Requisite: CSE 250 and (MTH 411, EAS 305, STA 301, CE 305, EE 305, or CIE 308) and MTH309 and Computer Science, Computer Engineering, or Bioinformatics majors only. Students must complete a mandatory advisement session with their faculty advisor.",
+    "sub": "CSE",
+    "title": "Introduction to Data Mining",
+    "catalognumber": "469LEC"
+  },
+  {
+    "eff": "2018-03-01",
+    "req": "Students who have already successfully completed the UB seminar course may not repeat this course. If you have any questions regarding enrollment for this course, please contact your academic advisor.",
+    "sub": "CSE",
+    "title": "UB Seminar",
+    "catalognumber": "198SEM"
+  },
+  {
+    "eff": "2025-03-01",
+    "req": "Students who have already successfully completed the first year seminar course may not repeat this course. If you have any questions regarding enrollment for this course, please contact your academic advisor.",
+    "sub": "CSE",
+    "title": "UB Seminar",
+    "catalognumber": "199SR"
+  },
+  {
+    "eff": "2023-10-01",
+    "req": "Pre-Requisite: CSE 191 and CSE 250; Computer Science, Computer Engineering, or Bioinformatics majors only. Students must complete a mandatory advisement session with their faculty advisor.",
+    "sub": "CSE",
+    "title": "Data Models and Query Languages",
+    "catalognumber": "460LEC"
+  },
+  {
+    "eff": "2023-10-01",
+    "req": "Pre-Requisite: CSE 331 and CSE 220 and Computer Science, Computer Engineering, or Bioinformatics majors only",
+    "sub": "CSE",
+    "title": "Introduction to Parallel and Distributed Processing",
+    "catalognumber": "470LEC"
+  },
+  {
+    "eff": "2025-03-01",
+    "req": "Pre-Requisites: CSE 250. Computer Science, Computer Engineering, or Bioinformatics majors only.\\nCo-Requisites: EAS 305 or MTH 411 or (STA 301 and STA 301) or CE 305.",
+    "sub": "CSE",
+    "title": "Introduction to Artificial Intelligence",
+    "catalognumber": "368LR"
+  },
+  {
+    "eff": "2023-10-01",
+    "req": "Pre-Requisite: CSE 250 and CSE 220 and Computer Science, Computer Engineering, or Bioinformatics majors only. Students must complete a mandatory advisement session with their faculty advisor.",
+    "sub": "CSE",
+    "title": "Introduction to Computer Security",
+    "catalognumber": "365LR"
+  },
+  {
+    "eff": "2025-10-01",
+    "req": "Pre-Requisites: CSE 116 and (MTH 121 or MTH 131 or MTH 141); Computer Science or Computer Science Engineering Majors, Computer Science Minors, Computational Linguistics or Data Intensive Computing Certificate students only.",
+    "sub": "CSE",
+    "title": "Systems Programming",
+    "catalognumber": "220LLB"
+  },
+  {
+    "eff": "2023-10-01",
+    "req": "Pre-Requisite: CSE 220.Computer Science, Computer Engineering, or Bioinformatics majors only. Students must complete a mandatory advisement session with their faculty advisor.",
+    "sub": "CSE",
+    "title": "Software Quality in Practice",
+    "catalognumber": "306LLB"
+  },
+  {
+    "eff": "2025-03-01",
+    "req": "Pre-Requisite: CSE 250 and CSE 220. Computer Science, Computer Engineering, or Bioinformatics majors only. Students must complete a mandatory advisement session with their faculty advisor.",
+    "sub": "CSE",
+    "title": "Introduction to Web Applications",
+    "catalognumber": "312LR"
+  },
+  {
+    "eff": "2023-10-01",
+    "req": "Pre-Requisite: CSE 331. Approved Computer Science, Computer Engineering, Bioinformatics/CS Majors only.",
+    "sub": "CSE",
+    "title": "Topics in Theoretical Computer Science",
+    "catalognumber": "430LEC"
+  },
+  {
+    "eff": "2023-10-01",
+    "req": "Pre-Requisite: CSE 331 and MTH 309. Computer Science, Computer Engineering, or Bioinformatics majors only",
+    "sub": "CSE",
+    "title": "Introduction to the Theory of Computation",
+    "catalognumber": "491LEC"
+  },
+  {
+    "eff": "2024-03-01",
+    "req": "Pre-Requisite:  CSE 379 and Computer Science, Computer Engineering, or Bioinformatics majors only.",
+    "sub": "CSE",
+    "title": "Hardware/Software Integrated Systems Design I",
+    "catalognumber": "450LEC"
+  },
+  {
+    "eff": "2019-10-01",
+    "req": "Pre-Requisite: CSE 116 or equivalent.",
+    "sub": "CSE",
+    "title": "Intro to Blockchain",
+    "catalognumber": "234LEC"
+  },
+  {
+    "eff": "2023-10-01",
+    "req": "Pre-Requisite: (PHY 108 or PHY 118) and (CSE115 or EAS230 or EAS240 or EAS 999TRCP) and (EAS305 or EE305 or STA301 or MTH411); Computer Science, Computer Engineering, or Bioinformatics majors only",
+    "sub": "CSE",
+    "title": "Applied Computational Intelligence",
+    "catalognumber": "454LEC"
+  },
+  {
+    "eff": "2023-10-01",
+    "req": "Pre-Requisite: CSE 250. Students must complete a mandatory advisement session with their faculty advisor. Computer Science, Computer Engineering, or Bioinformatics majors only.",
+    "sub": "CSE",
+    "title": "Applied Human Computer Interaction and Interface Design",
+    "catalognumber": "370LR"
+  },
+  {
+    "eff": "2023-10-01",
+    "req": "Pre-Requisites: CSE 331.Computer Science, Computer Engineering, or Bioinformatics majors only.",
+    "sub": "CSE",
+    "title": "Coding Theory",
+    "catalognumber": "445LEC"
+  },
+  {
+    "eff": "2023-10-01",
+    "req": "Pre-Requisite: CSE 250. Students must complete a mandatory advisement session with their faculty advisor. Computer Science, Computer Engineering, or Bioinformatics majors only",
+    "sub": "CSE",
+    "title": "Blockchain Application Development",
+    "catalognumber": "426LEC"
+  },
+  {
+    "eff": "2023-10-01",
+    "req": "Pre-requisite:  CSE331 and (EAS305 or EE305 or MTH411 or STA 301).Computer Science, Computer Engineering, or Bioinformatics majors.",
+    "sub": "CSE",
+    "title": "Randomized Algorithms Analysis and Design",
+    "catalognumber": "432LEC"
+  },
+  {
+    "eff": "2023-10-01",
+    "req": "Pre-Requisite: CSE 305. Computer Science, Computer Engineering, or Bioinformatics majors only.",
+    "sub": "CSE",
+    "title": "Software Verification",
+    "catalognumber": "449LEC"
+  },
+  {
+    "eff": "2025-03-01",
+    "req": "Pre-Requisite: CSE 442 or CSE 370 or CSE 443 or permission of department.",
+    "sub": "CSE",
+    "title": "Software Project Management",
+    "catalognumber": "404LR"
+  },
+  {
+    "eff": "1901-01-01",
+    "req": "",
+    "sub": "CSE",
+    "title": "400 Level Elective CSE Majors",
+    "catalognumber": "11SA400"
+  },
+  {
+    "eff": "2023-10-01",
+    "req": "Pre-Requisite: CSE 250;\\nCo-Requisite: MTH 309.",
+    "sub": "CSE",
+    "title": "Quantum Computation through Linear Algebra",
+    "catalognumber": "439LEC"
+  },
+  {
+    "eff": "2023-10-01",
+    "req": "Pre-Requisite: CSE474 or CSE455 or CSE473. Computer Science, Computer Engineering, or Bioinformatics majors only.",
+    "sub": "CSE",
+    "title": "Reinforcement Learning",
+    "catalognumber": "446LEC"
+  },
+  {
+    "eff": "2020-03-01",
+    "req": "Pre-Requisite: MGF 301 or ECO 480 or CSE 115 and CSE 116",
+    "sub": "CSE",
+    "title": "Computational Investment: Part I",
+    "catalognumber": "478LEC"
+  },
+  {
+    "eff": "2023-10-01",
+    "req": "Pre-Requisite: CSE 250 and CSE 305 and CSE 331 and MTH 309. Computer Science, Computer Engineering, or Bioinformatics majors only",
+    "sub": "CSE",
+    "title": "Introduction to Digital Image Processing",
+    "catalognumber": "428LEC"
+  },
+  {
+    "eff": "2024-10-01",
+    "req": "Pre-Requisite: (CSE 474 or CSE 368) or (CSE 331 and (CSE 474 or CSE 368) as a co-requisite);\\nCo-Requisite: (CSE 474 or CSE 368) (if CSE 331 already completed);\\nStudents cannot take both CSE 440 and CSE 441.",
+    "sub": "CSE",
+    "title": "Machine Learning and Society for Majors",
+    "catalognumber": "440LEC"
+  },
+  {
+    "eff": "2022-03-01",
+    "req": "Pre-Requisite: CSE 250;\\nComputer Science or Computer Engineering majors only.",
+    "sub": "CSE",
+    "title": "Advanced Blockchain Concepts",
+    "catalognumber": "409LEC"
+  },
+  {
+    "eff": "2023-10-01",
+    "req": "Pre-Requisite: CSE 115 or MGS 314 and Cybersecurity Minors only.",
+    "sub": "CSE",
+    "title": "Systems Security",
+    "catalognumber": "427LEC"
+  },
+  {
+    "eff": "2022-03-01",
+    "req": "Permission of department required;\\nStudents cannot take both CSE 440 and CSE 441.",
+    "sub": "CSE",
+    "title": "Machine Learning and Society for Non-Majors",
+    "catalognumber": "441LEC"
+  },
+  {
+    "eff": "2024-03-01",
+    "req": "Prerequisite: CSE 302 and Bioinformatics, computer science, or computer engineering major, or permission of the department.",
+    "sub": "CSE",
+    "title": "Intermediate Experiential Learning/Research",
+    "catalognumber": "303LR"
+  },
+  {
+    "eff": "2025-03-01",
+    "req": "Prerequisites: CSE 302 with a B grade or higher and Bioinformatics, computer science, or computer engineering major, or permission of the department",
+    "sub": "CSE",
+    "title": "Experiential Learning/Research Capstone",
+    "catalognumber": "402LEC"
+  },
+  {
+    "eff": "1901-01-01",
+    "req": "",
+    "sub": "CSE",
+    "title": "300 Level Elective CSE Majors",
+    "catalognumber": "11SA300"
+  },
+  {
+    "eff": "2023-10-01",
+    "req": "Prerequisite: CSE 250",
+    "sub": "CSE",
+    "title": "Processing of Strings and Sequences",
+    "catalognumber": "477LEC"
+  },
+  {
+    "eff": "2024-03-01",
+    "req": "Pre-Requisite: CSE 220.",
+    "sub": "CSE",
+    "title": "Software Security",
+    "catalognumber": "418LEC"
+  },
+  {
+    "eff": "2024-03-01",
+    "req": "Pre-Requisite: CSE 220, School of Engineering and Applied Sciences Major;\\nCo-Requisite: CSE 250.",
+    "sub": "CSE",
+    "title": "3D Video Game Development",
+    "catalognumber": "420LEC"
+  },
+  {
+    "eff": "2024-10-01",
+    "req": "Pre-Requisite: CSE 220 and CSE 250; Computer Science, Computer Engineering, or Bioinformatics Majors only.",
+    "sub": "CSE",
+    "title": "Advanced Data Structures and Indexes",
+    "catalognumber": "350LR"
+  },
+  {
+    "eff": "2025-10-01",
+    "req": "Pre-Requisite: CSE 305 and CSE 331; Computer Science and Engineering Majors Only.",
+    "sub": "CSE",
+    "title": "Theory of Programming Languages",
+    "catalognumber": "413LEC"
+  },
+  {
+    "eff": "2025-03-01",
+    "req": "Pre-Requisite: CSE 220 and CSE 250 and (CSE 365 or CSE 312 or CSE 489). School of Engineering and Applied Sciences Majors only.",
+    "sub": "CSE",
+    "title": "Computer Security",
+    "catalognumber": "465LEC"
+  },
+  {
+    "eff": "2025-03-01",
+    "req": "CSE 250 Data Structures and School of Engineering and Applied Sciences Majors Only.  Students should have a good foundation in problem solving, data structures, algorithms and design representation. Prior knowledge of blockchain not required.",
+    "sub": "CSE",
+    "title": "Blockchain, Cryptocurrency and Decentralized Finance System",
+    "catalognumber": "406LEC"
+  },
+  {
+    "eff": "2025-10-01",
+    "req": "Pre-Requisite: LIN 467 or CSE 467.",
+    "sub": "CSE",
+    "title": "Advanced Computational Linguistics",
+    "catalognumber": "471LEC"
+  }
+]

@@ -1,0 +1,287 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewpoint" content="width=device-width, initial-scale=1">
+        <meta http-equiv="Cache-Control" content="no-cache">
+        <title>CSE Course Requisite Graph - University at Buffalo</title>
+
+        <!-- Bootstrap Core CSS -->
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+        <link rel="stylesheet" href="https://cse.buffalo.edu/adblab/common.css">
+
+        <style>
+		  	#cy {
+				width: 100%;
+				height: 100%;
+				position: absolute;
+				left: 0;
+				top: 0;
+				z-index: 999;
+		  	}
+
+			.tippy-popper {
+				transition: none !important;
+			}
+        </style>
+    </head>
+    <body>
+        <div class="container-fluid">
+
+            <div class="row" style="margin-top:20px">
+                <p>
+                <h3>CSE Course Requisite Graph</h3>
+            </div>
+
+            <div class="row" id="cy">
+            </div>
+
+        </div>
+
+        <script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+        <script src="https://unpkg.com/cytoscape@3.33.1/dist/cytoscape.min.js"></script>
+		<script src="https://unpkg.com/dagre@0.8.5/dist/dagre.min.js"></script>
+		<script src="https://unpkg.com/cytoscape-dagre@2.5.0/cytoscape-dagre.js"></script>
+        <script src="https://unpkg.com/@popperjs/core@2"></script>
+        <script src="https://unpkg.com/cytoscape-popper@4.0.0/cytoscape-popper.js"></script>
+        <script src="https://unpkg.com/tippy.js@6"></script>
+        
+
+        <script>
+			// https://github.com/cytoscape/cytoscape.js-popper/blob/master/demo-tippy.html
+			function tippyFactory(ref, content){
+				// Since tippy constructor requires DOM element/elements, create a placeholder
+				var dummyDomEle = document.createElement('div');
+
+				var tip = tippy( dummyDomEle, {
+					getReferenceClientRect: ref.getBoundingClientRect,
+					trigger: 'manual', // mandatory
+					// dom element inside the tippy:
+					content: content,
+					// your own preferences:
+					arrow: true,
+					placement: 'bottom',
+					hideOnClick: false,
+					sticky: "reference",
+
+					// if interactive:
+					interactive: true,
+					appendTo: document.body // or append dummyDomEle to document.body
+				} );
+
+				return tip;
+			}
+			
+			// https://colorany.com/color-palettes/color-blind-friendly-color-palettes/
+			var colors = [
+				0x4caf50, // cse
+				0x2196f3, // ece
+				0x8bc34a, // mth
+				0x03a9f4, // default
+				0xffc107, // preerq
+				0xffeb3b, // coreq
+				0x9c27b0,
+				0x795548,
+				0x3f51b5,
+				0xff5722, // highlight
+			];
+			var subs = ['CSE', 'ECE', 'MTH'];
+			var sub_to_color = {};
+			for (let i in subs) {
+				sub_to_color[subs[i]] = colors[i];
+			}
+			sub_to_color["default"] = colors[subs.length];
+			var line_prereq = colors[subs.length + 1];
+			var line_coreq = colors[subs.length + 2];
+			var highlight = colors[colors.length - 1];
+
+			function make_rgb(c) {
+				return `rgb(${c >> 16}, ${(c >> 8) & 0xff}, ${c & 0xff})`;
+			}
+
+			function default_color(val) {
+				let c = (sub_to_color[val.sub] ?? sub_to_color["default"]);
+				return make_rgb(c);
+			}
+
+			function default_opacity(val) {
+				let level = Math.floor(val.cno / 100);
+				let alpha = (8 - level) / 8 * 0.8 + 0.2;
+				return alpha;
+			}
+
+            function onDataFetched(courses) {
+                //console.log(courses);
+				cytoscape.use(cytoscapePopper(tippyFactory));
+
+                var nodes = [];
+                var edges = [];
+                for (let vid in courses) {
+                    let c = courses[vid];
+                    nodes.push({
+                        data: {
+                            id: vid,
+                            val: c
+                        }
+                    });
+                    for (let i in c.reqs) {
+                        let req = c.reqs[i]; 
+                        if (req.hasOwnProperty('eid')) {
+                            edges.push({
+                                data: {
+                                    source: vid,
+                                    target: req.vid,
+                                    sval: c,
+                                    eval: req
+                                }
+                            })
+                        }
+                    }
+                }
+
+                var cy = window.cy = cytoscape({
+                  container: document.getElementById('cy'),
+
+                  boxSelectionEnabled: false,
+                  autounselectify: true,
+
+                  layout: {
+                    name: 'dagre',
+                    rankDir: 'TB',
+                    nodeSep: 20,
+                    //edgesep: 10,
+                    rankSep: 200,
+                    ranker: 'network-simplex',
+                    spacingFactor: 2,
+                    sort: function(a, b) {
+                        if (a.group() == "nodes") {
+                            return a.data("val").cno - b.data("val").cno;
+                        } else {
+                            let aval = a.data("eval");
+                            let bval = b.data("eval");
+                            return aval.cno - bval.cno;
+                        }
+                    }
+                  },
+
+                  style: [
+                    {
+                      selector: 'node',
+                      style: {
+						'background-color': function (e) {
+							let val = e.data('val');
+							return default_color(val);
+						},
+						'background-opacity': function (e) {
+							let val = e.data('val');
+							return default_opacity(val);
+						},
+                        'label': function (e) {
+                            let id = e.data('id');
+                            return id;
+                        }
+                      }
+                    },
+
+                    {
+                      selector: "edge[eval.type = 'Pre-requisite']",
+                      style: {
+                        'width': 1.5,
+                        'target-arrow-shape': 'triangle',
+                        'line-color': make_rgb(line_prereq),
+                        'target-arrow-color': make_rgb(line_prereq),
+                        'curve-style': 'bezier'
+                      }
+                    },
+
+                    {
+                      selector: "edge[eval.type = 'Co-requisite']",
+                      style: {
+                        'width': 1.5,
+                        'target-arrow-shape': 'triangle',
+                        'line-color': make_rgb(line_coreq),
+                        'target-arrow-color': make_rgb(line_coreq),
+                        'curve-style': 'bezier'
+                      }
+                    },
+                  ],
+
+                  elements: {
+                    nodes: nodes,
+                    edges: edges 
+                  }
+                });
+
+				var tippy = {};
+
+				for (let vid in courses) {
+					let c = cy.$("#" + vid);
+					let val = c.data("val");
+					let div = document.createElement("div");
+                    div.innerHTML =
+                        "<p>" + val.title +
+                        "<br>" + val.req +
+                        "<br> Last effective: " + val.eff;
+					let t = c.popper({ content: div });	
+					tippy[vid] = t;
+				}
+				cy.on("mouseover", "node", function(e) {
+					var n = e.target;
+					var id = n.data("id");
+					if (tippy.hasOwnProperty(id)) {
+						tippy[id].show();
+					}
+				});
+				cy.on("mouseout", "node", function(e) {
+					var n = e.target;
+					var id = n.data("id");
+					if (tippy.hasOwnProperty(id)) {
+						tippy[id].hide();
+					}
+				});
+
+                var selected = {};
+
+                cy.on("click", "node", function(e) {
+                    var n = e.target;
+                    var id = n.data("id");
+					var deselected;
+                    if ((selected[id] ?? 0) > 0) {
+						deselected = true;
+                        selected[id] = 0;
+						n.style('background-color', default_color(n.data("val")));
+					} else {
+						selected[id] = 1;
+						deselected = false;
+						n.style('background-color', make_rgb(highlight));
+					}
+
+					n.connectedEdges().forEach(edge => {
+						let id = edge.data("eval").eid;
+						if (deselected) selected[id] -= 1;
+						else selected[id] = (selected[id] ?? 0) + 1;
+						if (selected[id] == 0) {
+							let c = edge.data("eval").type == "Pre-requisite" ? line_prereq : line_coreq;
+							edge.style("line-color", make_rgb(c))
+								.style("target-arrow-color", make_rgb(c));
+						} else {
+							edge.style("line-color", make_rgb(highlight))
+								.style("target-arrow-color", make_rgb(highlight));
+						}
+					});
+                });
+
+                var cse116  = cy.$('#CSE116');
+                cy.zoom(0.5);
+                cy.center(cse116);
+            }
+
+            window.addEventListener('DOMContentLoaded', function() {
+                $.getJSON("data.json", onDataFetched);
+            });
+        </script>
+    </body>
+</html>
